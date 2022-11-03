@@ -4,7 +4,7 @@
 
 Tecnologias:<br>
 [x] HTML<br>
-[ ] CSS 🎨<br>
+[x] CSS 🎨<br>
 [ ] JavaScript
 
 > :construction: Projeto em construção :construction:
